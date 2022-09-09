@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /**
-* main - prints the phrase " Programming is like building a multi lingual puzzle"
-* Return: 0 if exited properly and a non zero if otherwise
+* main - prints the string in the function
 *
-* 
+* Return: 0 if exited properly,and non zero if other wise
 */
 int main(void)
 {
