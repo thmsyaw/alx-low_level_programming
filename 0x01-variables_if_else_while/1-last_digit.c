@@ -4,7 +4,7 @@
 
 /**
 *main - entry point
-*Description: prints the last digit of a random 
+*Description: prints the last digit of a random
 *number stored in the variable n
 *Return: 0
 */
