@@ -3,9 +3,10 @@
 #include <stdio.h>
 
 /**
-*Description: using main - prints the last digit of a random 
+*main - entry point
+*Description: prints the last digit of a random 
 *number stored in the variable n
-*Return: Always 0
+*Return: 0
 */
 int main(void)
 {

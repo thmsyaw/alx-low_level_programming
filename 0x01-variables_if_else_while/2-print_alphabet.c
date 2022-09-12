@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
-*main - prints the alpherbet in lowercase,
+*main - entry point
+*Description: prints the alpherbet in lowercase,
 *followed by a new line
-*Return: Always 0 
+*Return: 0 
 */
 int main(void)
 {
